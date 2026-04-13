@@ -1,0 +1,13 @@
+{
+  "semaine": "2026-S16",
+  "region": "Occitanie",
+  "code_region": "76",
+  "date_generation": "2026-04-13T14:46:54.371055",
+  "situation_globale": "NORMAL",
+  "nb_departements_surveilles": 13,
+  "departements_en_urgence": [],
+  "departements_en_alerte": [],
+  "indicateurs": [],
+  "genere_par": "ars_epidemio_dag v1.0",
+  "pipeline_version": "2.8"
+}
