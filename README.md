@@ -1,11 +1,8 @@
 # TP Airflow - Data Platform Sante Publique ARS Occitanie
 
 ## Auteur
-- Nom : Brotons
-- Prenom : Hugo Khaled
-- Etablissement : IPSSI
-- Niveau : 5eme annee
-- Type : TP normal
+- Nom : Khaled Brotons
+- Prenom : Hugo
 - Date : 13/04/2026
 
 ## Prerequis
